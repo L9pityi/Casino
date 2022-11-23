@@ -23,3 +23,19 @@
 hs_err_pid*
 
 !Casino/gradle/wrapper/gradle-wrapper.jar
+
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+# IDE
+.idea/
+*.iml
